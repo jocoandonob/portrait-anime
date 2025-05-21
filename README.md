@@ -1,5 +1,9 @@
 # ModelRunnerPro
 
+<div align="center">
+  <img src="thumbnail.png" alt="ModelRunnerPro Logo" width="200"/>
+</div>
+
 A Flask-based web application for running and managing AI models, specifically focused on image processing and model inference.
 
 ## Features
