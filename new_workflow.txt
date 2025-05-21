@@ -1,0 +1,2 @@
+name = "AnimeGAN"
+command = "python standalone_app.py"

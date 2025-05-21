@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Face shape -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#1E88E5" stroke-width="4"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="70" cy="80" rx="15" ry="20" fill="#1E88E5"/>
+  <ellipse cx="130" cy="80" rx="15" ry="20" fill="#1E88E5"/>
+  
+  <!-- Sparkles in eyes -->
+  <circle cx="75" cy="75" r="5" fill="white"/>
+  <circle cx="135" cy="75" r="5" fill="white"/>
+  
+  <!-- Mouth -->
+  <path d="M70,130 Q100,150 130,130" fill="none" stroke="#1E88E5" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Hair spikes -->
+  <path d="M40,60 L30,30 L55,50 L75,20 L90,45 L110,25 L125,50 L145,30 L160,60" fill="none" stroke="#1E88E5" stroke-width="4" stroke-linejoin="round"/>
+  
+  <!-- Anime sparkle -->
+  <path d="M160,60 L170,55 L165,65 L175,65 L165,70 L170,80 L160,75 L155,85 L150,75 L140,80 L150,70 L140,65 L150,65 L145,55 L155,60 Z" fill="#F44336"/>
+  
+  <!-- Text "AnimeGAN" -->
+  <text x="100" y="180" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#1E88E5">AnimeGANv2</text>
+</svg>
